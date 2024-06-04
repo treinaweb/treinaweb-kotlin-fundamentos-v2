@@ -8,6 +8,6 @@ fun main() {
     greeting()
 }
 
-fun greeting() {
+private fun greeting() {
     println("Olá TreinaWeb")
 }
